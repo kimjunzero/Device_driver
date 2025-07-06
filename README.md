@@ -19,11 +19,11 @@ STM32를 활용하여 Data Sheet보고 Device Driver 구현하기
 
 <img width="633" alt="회로도" src="https://github.com/user-attachments/assets/a65c8cc8-ad21-4f3e-a1ec-ab5c6eba48d1" />
 
-[컴포트1.mp4](attachment:2df1bd59-0956-465c-b0ed-93046db5a5e1:컴포트1.mp4)
+https://github.com/user-attachments/assets/9c5365a5-10bc-4802-ae84-8b0e3f23330b
 
 - 응답 타임 시간이 지나서 타임 아웃 발생
 
-[컴포트2.mp4](attachment:4ac79902-a187-4aa4-8ace-ad100195a682:컴포트2.mp4)
+https://github.com/user-attachments/assets/784c3822-9ddd-4e44-90f1-350b8195c0e1
 
 - 온도, 기압 측정 결과
 
@@ -33,19 +33,21 @@ STM32를 활용하여 Data Sheet보고 Device Driver 구현하기
 
 - 출력 결과
 
-![image.png](attachment:9486aead-fec4-451d-9666-5a84e62bdcdf:image.png)
+<img width="334" alt="헬로" src="https://github.com/user-attachments/assets/f833f2e7-e4fd-4508-aa74-608baed234e7" />
 
 1. **dht11/ds1302/shift-register-dotmetric 연동**
 - 데이터시트보고 coding하기
 
 - dht11
 
-![image.png](attachment:a4134d7e-d614-4c6a-90e2-de05ba17eed5:image.png)
+<img width="625" alt="1" src="https://github.com/user-attachments/assets/9145c060-3d49-45df-9e69-e11f6a31cf8a" />
 
 - ds1302
 
-![image.png](attachment:f717078f-50da-4825-a710-4af7d06ffaf5:image.png)
+<img width="629" alt="2" src="https://github.com/user-attachments/assets/53ab1cf8-0a5e-40af-8367-08a9bb4bce60" />
+
 
 - shiftregister - dotmatrix
 
-![image.png](attachment:9186a69e-81e6-4947-b47c-f52c3ee38adb:image.png)
+<img width="621" alt="3" src="https://github.com/user-attachments/assets/2d07971e-0596-484c-93d5-56d9f4de4eb7" />
+
