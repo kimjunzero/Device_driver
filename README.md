@@ -17,8 +17,7 @@ STM32를 활용하여 Data Sheet보고 Device Driver 구현하기
 - 무응답시 Timeout 처리 기능
 - 오실로스코프 동작 파형 분석
 
-![image.png](attachment:3bb17aa2-a791-4908-81da-9e28a87ef7f4:image.png)
-
+<img width="633" alt="회로도" src="https://github.com/user-attachments/assets/a65c8cc8-ad21-4f3e-a1ec-ab5c6eba48d1" />
 
 [컴포트1.mp4](attachment:2df1bd59-0956-465c-b0ed-93046db5a5e1:컴포트1.mp4)
 
